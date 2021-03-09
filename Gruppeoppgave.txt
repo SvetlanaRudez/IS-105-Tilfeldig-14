@@ -1,4 +1,10 @@
 Gruppe 14:
+Per Olav
 Markus Furulund
-
 Ine Bredesen
+<<<<<<< HEAD
+
+=======
+
+
+>>>>>>> 99402801662e209c314723d291edbe43727cab63
